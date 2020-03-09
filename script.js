@@ -121,7 +121,6 @@ playAgain = (e) => {
 };
 
 
-
 //Set Message Function
 setMessage = (msg, color) => {
     message.style.color = color;
